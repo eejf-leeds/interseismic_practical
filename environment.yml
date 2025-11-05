@@ -12,3 +12,4 @@ dependencies:
  - pyproj
  - cmcrameri
  - pathlib
+ - pygmt=0.7.0
