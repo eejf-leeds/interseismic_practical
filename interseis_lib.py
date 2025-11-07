@@ -506,7 +506,7 @@ def plot_maps_with_reference(vel_asc_regrid, lon_regrid, lat_regrid, fault_trace
     divider = make_axes_locatable(axs[0])
     cax = divider.append_axes("right", size="5%", pad="2%")
     plt.colorbar(im, cax=cax, label='LOS velocity (mm/yr)')
-    axs[0].set_title('087A_04904_121313')
+    axs[0].set_title('026A_05924_131313')
     axs[0].set_xlim(np.amin(lon_regrid), np.amax(lon_regrid))
     axs[0].set_ylim(np.amin(lat_regrid), np.amax(lat_regrid))
 
@@ -518,7 +518,7 @@ def plot_maps_with_reference(vel_asc_regrid, lon_regrid, lat_regrid, fault_trace
     divider = make_axes_locatable(axs[1])
     cax = divider.append_axes("right", size="5%", pad="2%")
     plt.colorbar(im, cax=cax, label='LOS velocity (mm/yr)')
-    axs[1].set_title('167D_04884_131212')
+    axs[1].set_title('135D_06019_131313')
     axs[1].set_xlim(np.amin(lon_regrid), np.amax(lon_regrid))
     axs[1].set_ylim(np.amin(lat_regrid), np.amax(lat_regrid))
 
