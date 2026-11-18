@@ -1,6 +1,6 @@
 # Interseismic Deformation and Strain Analysis (Practical)
 
-Practical exercise on interseismic strain accumulation for the COMET InSAR Training Workshop 2025.
+Practical exercise on interseismic strain accumulation for the COMET InSAR Training Workshop.
 
 To launch the practical notebook (use this if you want to run through the practical):
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eejf-leeds/interseismic_practical/main?filepath=Interseis_practical_2025.ipynb)
@@ -22,4 +22,4 @@ The practical can also be run locally using Jupyter Notebooks. You'll find the r
 
 Detailed guidance on the content was provided by John Elliott. Advice on the computational requirements of the practical was provided by Richard Rigby. This notebook was originally written by Andrew Watson using resources from the Tectonophysics (Tim Wright) and Inverse Theory (Phil Livermore) undergraduate modules at the University of Leeds. The strain rate sections were originally written by Qi Ou, with later modifications by Jin Fang. Thanks to everyone for their contributions.
 
-Jin Fang - 2025
+Jin Fang
