@@ -3,7 +3,7 @@
 Practical exercise on interseismic strain accumulation for the COMET InSAR Training Workshop.
 
 To launch the practical notebook (use this if you want to run through the practical):
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eejf-leeds/interseismic_practical/main?filepath=Interseis_practical_2025.ipynb)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eejf-leeds/interseismic_practical/main?filepath=Interseis_practical.ipynb)
 
 To launch the full repo (use this if you want to experiment with the code):
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eejf-leeds/interseismic_practical/main)
